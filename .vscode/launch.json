@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestHashTable",
+            "request": "launch",
+            "mainClass": "TestHashTable"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HasTable",
+            "request": "launch",
+            "mainClass": "HasTable"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashTable",
+            "request": "launch",
+            "mainClass": "HashTable"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        }
+    ]
+}
